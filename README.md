@@ -6,5 +6,6 @@ article starts with the short version; the details and sources follow for anyone
 **Read them in the [wiki](https://github.com/CmdrShepardsPie/vrchat-avatar-notes/wiki).**
 
 - [Blend shapes that don't change the lighting](https://github.com/CmdrShepardsPie/vrchat-avatar-notes/wiki/Blend-Shapes-and-Lighting)
+- [Normal maps that light differently in Unity](https://github.com/CmdrShepardsPie/vrchat-avatar-notes/wiki/Normal-Maps-and-Tangents)
 
 The text and code here and in the wiki are under the [MIT License](LICENSE).
